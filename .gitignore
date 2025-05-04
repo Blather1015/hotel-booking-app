@@ -1,0 +1,16 @@
+# React defaults
+node_modules/
+build/
+dist/
+.env
+.DS_Store
+.vs/
+
+
+# OS files
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
